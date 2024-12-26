@@ -1,5 +1,5 @@
 # onepager-small
-Live Preview: https://1lp.hu/small/
+Live Preview: https://op.1lp.org/small
 
 Simple (only HTML &amp; CSS), responsive one-pager for small businesses. Minimalist, clean design for short content (equivalent to an A5/US letter size paper)
 
